@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 [![DataCamp](https://img.shields.io/badge/DataCamp-Certified-success)](https://www.datacamp.com/certificate/DSA0010369992449)
 
-[![Certificate](assets/datacamp_certificate.png)](https://www.datacamp.com/certificate/DSA0010369992449)
+[![Certificate](assets/datacamp_certificate.png)]
 
