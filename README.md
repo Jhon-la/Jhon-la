@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 
 [![DataCamp](https://img.shields.io/badge/DataCamp-Certified-success)](https://www.datacamp.com/certificate/DSA0010369992449)
 
-![DataCamp Certificate](DataScientist Associate.pdf)
+## 🎓 DataCamp Certification
+
+📄 **Data Scientist Associate – DataCamp**  
+[View Certificate (PDF)](DataScientist%20Associate.pdf)
+
 
 
