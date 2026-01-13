@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm Jhon, a data science enthusiast focused on data analysis, machine learning, and turning data into actionable insights. I enjoy working with Python, pandas, and building data-driven solutions.
+
+Certified as **Data Scientist Associate – DataCamp**.
 <!--
 **Jhon-la/Jhon-la** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,8 +20,6 @@ Here are some ideas to get you started:
 ## 🎓 Certifications
 
 [![DataCamp](https://img.shields.io/badge/DataCamp-Certified-success)](https://www.datacamp.com/certificate/DSA0010369992449)
-
-## 🎓 DataCamp Certification
 
 📄 **Data Scientist Associate – DataCamp**  
 [View Certificate (PDF)](DataScientist%20Associate.pdf)
