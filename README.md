@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 ## 🎓 Certifications
 
 📄 **Data Scientist Associate – DataCamp**  
-[View Certificate (PDF)](DataScientist%20Associate.pdf)
-![DS Associate Badge](DS%20Associate%20-%20badge.png)
+![DS Associate Badge](DS%20Associate%20-%20badge.png)[View Certificate (PDF)](DataScientist%20Associate.pdf)
 
 
 
