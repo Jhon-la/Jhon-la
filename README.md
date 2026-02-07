@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 📄 **AWS AI Practitioner– AWS**
 <a href="aws-certified-ai-practitioner.png">
-  <img src="aws-certified-ai-practitioner.png" width="120"/>
+  <img src="aws-certified-ai-practitioner.png" width="180"/>
 </a>
 [View Certificate (PDF)](AWS%20Certified%20AI%20Practitioner%20certificate.pdf)
 
