@@ -23,21 +23,17 @@ Here are some ideas to get you started:
 -->
 ## 🎓 Certifications
 
-📄 **AWS AI Practitioner – AWS**  
+**AWS AI Practitioner – AWS** · **Data Scientist – DataCamp** · **Data Scientist Associate – DataCamp**
+
 <a href="AWS%20Certified%20AI%20Practitioner%20certificate.pdf">
-  <img src="aws-certified-ai-practitioner.png" width="180"/>
+  <img src="aws-certified-ai-practitioner.png" width="150"/>
 </a>
-
-📄 **Data Scientist Certificate – DataCamp**  
 <a href="certificate%20DS.pdf">
-  <img src="DS%20-%20Badge.png" width="180"/>
+  <img src="DS%20-%20Badge.png" width="150"/>
 </a>
-
-📄 **Data Scientist Associate – DataCamp**  
 <a href="DataScientist%20Associate.pdf">
-  <img src="DS%20Associate%20-%20badge.png" width="180"/>
+  <img src="DS%20Associate%20-%20badge.png" width="150"/>
 </a>
-
 
 
 
