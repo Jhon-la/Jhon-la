@@ -25,9 +25,13 @@ Here are some ideas to get you started:
 
 📄 **AWS AI Practitioner– AWS**
 
-<a href="aws-certified-ai-practitioner.png">
+<a href="certificate%20DS.pdf">
+  <img src="DS%20-%20Badge.png" width="180"/>
+</a>
+
+<a href="AWS%20Certified%20AI%20Practitioner%20certificate.pdf">
   <img src="aws-certified-ai-practitioner.png" width="180"/>
-</a>[View Certificate (PDF)]<a href="AWS%20Certified%20AI%20Practitioner%20certificate.pdf"></a>
+</a>
 
 📄 **Data Scientist certificate – DataCamp**  
 ![DS Badge](DS%20-%20Badge.png)[View Certificate (PDF)](certificate%20DS.pdf)
