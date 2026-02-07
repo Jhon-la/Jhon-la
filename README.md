@@ -1,8 +1,12 @@
 ## Hi there 👋
 
-I'm Jhon, a data science enthusiast focused on data analysis, machine learning, and turning data into actionable insights. I enjoy working with Python, pandas, and building data-driven solutions.
+I'm Jhon, a Data Science enthusiast and AWS Certified AI Practitioner, with a solid background in data analysis, statistics, and machine learning. 
+I specialize in data cleaning, exploratory data analysis, feature engineering, and model development using Python and pandas, turning complex datasets into actionable insights. 
+Additionally, I understand AI/ML fundamentals, responsible AI principles, and cloud-based AI architectures on AWS.
 
-Certified as **Data Scientist Associate – DataCamp**.
+Certified as 
+**Data Scientist – DataCamp**.
+**AI Practitioner – AWS**
 <!--
 **Jhon-la/Jhon-la** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
