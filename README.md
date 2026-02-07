@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 
 📄 **AWS AI Practitioner– AWS**
 
-<a href="certificate%20DS.pdf">
   <img src="DS%20-%20Badge.png" width="180"/>
 </a>
 
