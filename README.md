@@ -27,25 +27,25 @@ Here are some ideas to get you started:
   <tr>
     <td align="center">
       <a href="AWS%20Certified%20AI%20Practitioner%20certificate.pdf">
-        <img src="aws-certified-ai-practitioner.png" width="140"/>
-      </a><br/>
-      <strong>AWS AI Practitioner<br/>AWS</strong>
+        <img src="aws-certified-ai-practitioner.png" width="140">
+      </a><br>
+      <b>AWS AI Practitioner</b><br>
+      AWS
     </td>
-
     <td align="center">
       <a href="certificate%20DS.pdf">
-        <img src="DS%20-%20Badge.png" width="140"/>
-      </a><br/>
-      <strong>Data Scientist<br/>DataCamp</strong>
+        <img src="DS%20-%20Badge.png" width="140">
+      </a><br>
+      <b>Data Scientist</b><br>
+      DataCamp
     </td>
-
     <td align="center">
       <a href="DataScientist%20Associate.pdf">
-        <img src="DS%20Associate%20-%20badge.png" width="140"/>
-      </a><br/>
-      <strong>Data Scientist Associate<br/>DataCamp</strong>
+        <img src="DS%20Associate%20-%20badge.png" width="140">
+      </a><br>
+      <b>Data Scientist Associate</b><br>
+      DataCamp
     </td>
   </tr>
 </table>
-
 
